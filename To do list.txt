@@ -1,0 +1,20 @@
+-Colores no aleatorios en la transmision de ser posible los mismos que en cromatogrma pues se hace muy dificil
+ver y hacer los graficos necesarios para el articulo
+-Ver posibilidad de en transmision luego de haber hecho un numero n de iteraciones al volver a darle play correr n iteraciones
+mas
+-Buscar foto para pantalla principal y buscar otro color(???) para el fondo
+-Icono para la app, utilizar el que estaba???
+-Hay bateo cuando tratas de sacar el cromatograma para Langmuir, revisar condicion de parada
+-Centrar los elementos de la tabla, creo que eso da bateo con que al principio no haya nada escrito pues el programa
+busca que centrar y da error
+-Agregar opcion (no obligatorio llenarlo) "Fijar concentracion max" para determinar rango de las Y 
+y que el grafico no se autoescale.
+-En la columna intensidad viene del color viene dada por el max global de todos los analitos, pensar si esto es realista o si
+debe ser max para cada uno???
+-Pensar ponerlo todo en inglés???
+-Qué es lo que estás ploteando en intensidad de la señal, es una intensidad relativa o algo así???
+-Cuando le das mas iteraciones en transmision el ultimo analito no se ve como que termina de salir si el grafico se autoescala
+-En cromatograma plotear eje de las x al revés pues es como se ven en la realidad
+-Creo que la columna se puede agrandar un poco aunque si es mucho problema así está ok
+-Hay un lim en la cantidad de iteraciones y platos teóricos que se pueden introducir, para los analitos esto no es
+importante pero para lo otro sí
